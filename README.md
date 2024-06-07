@@ -1,7 +1,7 @@
 
 # MazeRL: A Reinforcement Learning Maze Solver
 
-![Demo](maze_game2.jpg)
+![Demo](maze_game2.JPG)
 
 ## Overview
 
